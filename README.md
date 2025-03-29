@@ -1,11 +1,13 @@
 # Species_Soil_Moisture_Threshold
 Python 3.12.4 and R 4.4.1 were used to perform the results
 
-for installation, please see https://www.python.org/ and https://cran.r-project.org/bin/windows/base/.
+For installation of Python and R, please see https://www.python.org/ and https://cran.r-project.org/bin/windows/base/.
 
 For used packages in .py and .R file, the installation can be finished with 'pip install + package name' in Python and 'install.packages('package name')' in R.
 
 '.rar' can be decompressed by WinRAR or other software.
+
+****************************************************************************************************************************************************************
 
 a. 1_studied_site_and_species_info.csv and Fig1.py-----basic information of studied sites, measured period and species number (present in Figure 1).
 
