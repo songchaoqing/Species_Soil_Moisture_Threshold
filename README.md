@@ -24,3 +24,5 @@ f. Fig4.py-----Evaluation of species-level transpiration (Td)-soil moisture (SM)
 g. BRTmodel.R and Fig5.py-----a boosted regression tree (BRT) model used to explore the drivers of spatial variation in species-level theta ('BRT_result.rar' is the output and present in Figure 5).
 
 h. Fig6.py-----comparison of Td-SM relationship and theta between observation and reanalysis-based and satellite-based SM products ('compare.rar' is the output and present in Figure 6).
+
+***Note: before run .py or .R file, change the read file path ('C:/Users/songchaoqing/Desktop/plant_water_stress/') to local path.
