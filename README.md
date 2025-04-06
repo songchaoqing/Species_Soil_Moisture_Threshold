@@ -1,7 +1,7 @@
 # Species_Soil_Moisture_Threshold
 Python 3.12.4 and R 4.4.1 were used to perform the results.
 
-For installation of Python and R, please see https://www.python.org/ and https://cran.r-project.org/bin/windows/base/, and/or Anaconda3 (spyder deditor) and RStudio.
+For installation of Python and R, please see https://www.python.org/ and https://cran.r-project.org/bin/windows/base/, and/or Anaconda3 (spyder editor) and RStudio.
 
 For used packages in .py and .R file, the installation can be finished with 'pip install + package name' in Python and 'install.packages('package name')' in R.
 
