@@ -1,5 +1,6 @@
 # Species_Soil_Moisture_Threshold
-######################################################################################################################################################################
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 1_studied_site_and_species_info.csv---longitude and latitude, begin and end of measurement, and number of species.
 
 2_site_species_threshold.xlsx---critical soil moisture threshold from the fitting between soil moisture and species transpiration during soil dry-downs in growing season by linear-plus-linear model, linear-plus-plateau model and concave quadratic model. The model with the lowest AIC value and statistically significant parameters (p < 0.05) was selected as the best model (columns of 'AIC_const', 'AIC_quad','AIC_seg').
